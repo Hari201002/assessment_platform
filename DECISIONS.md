@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # Engineering Decisions
 
 ## 1. Gmail Normalization
