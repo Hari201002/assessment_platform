@@ -1,11 +1,7 @@
 
 ---
 
-# ✅ 7️⃣ DECISIONS.md (Very Important for Evaluation)
-
-This document shows engineering reasoning.
-
-Copy this:
+# ✅ 7️⃣ DECISIONS.md 
 
 ```markdown
 # Engineering Decisions
